@@ -18,7 +18,7 @@ tags: [ArchLinux, Linux, OS]
 根据 Category:Getting and installing Arch 中所述，下载并引导安装介质。启动完成后将会自动以 root 身份登录虚拟控制台并进入zsh命令提示符。类似 systemctl(1) 的常规命令都可以用 Tab 自动补全。
 
 如果你想切换至其它的虚拟终端来干点别的事, 例如使用 ELinks 来查看本篇指南，使用 Alt+arrow 快捷键。可以使用 nano，vi 或 vim 编辑配置文件。
-
+<!--more-->
 键盘布局
 控制台键盘布局 默认为us（美式键盘映射）。如果您正在使用非美式键盘布局，通过以下的命令选择相应的键盘映射表：
 
